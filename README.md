@@ -1,2 +1,3 @@
 # Learning-Rust
-This Repository is about learning Rust
+This Repository contains the code base that are created during my rust learnings
+
