@@ -1,0 +1,19 @@
+This file is created to learn about GIT
+following are the learnings so far
+Date: 2019-09-07
+
+I am currently learning the GIT through GIT hub
+
+Essentials: Repositories, Branches, Commits, Pull Requests
+
+Repository - used to organise a single project(contains all the files and folder structure that the project needs)
+README - a file with info about the project
+
+Branch: is the way to work on a different versions of the repo at the same time
+By default repo has one branch called master(definitive branch)
+Use branch to experiment on different ideas before committing to master
+Create Branch = Taking a copy or snapshot of the Master at that time
+Pulling = If someone make any changes to the master while you are working on you own branch then you could pull in those changes to your branch 
+Committing = This will commit the changes to your branch and not to the Master(that process is called Merging)
+
+Learn about the Creation on new branch : https://guides.github.com/activities/hello-world/#branch
