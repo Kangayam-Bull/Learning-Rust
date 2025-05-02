@@ -1,0 +1,23 @@
+#[derive(debug)]
+struct Rectangle {
+    length:i32,
+    breadth:i32,
+}
+impl Rectangle {
+
+    fn area(&self) -> i32 {
+        return self.lenght*self.breadth;
+    }
+
+}
+fn main() {
+
+    let rect = Rectangle {
+        length:32,
+        breadth:63,
+    };
+
+    prinln!("The Area of the rect = {}", rect.area());
+    
+
+}
